@@ -1,0 +1,16 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "A private MQTT server that can be installed in windows 10",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.0",
+    "mosca": "^2.8.3",
+    "mqtt": "^2.15.0"
+  }
+}
